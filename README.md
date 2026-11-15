@@ -1,5 +1,7 @@
 # Phoenix-Karaoke
 A free, standalone Windows karaoke player. This application also serves as a live demonstration of the PhoenixGames.Karaoke.Cdg NuGet packages in action.
+
+
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/f509b23f-12aa-48de-a081-ea0ea298242c" />
 
 
